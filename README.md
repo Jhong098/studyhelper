@@ -4,4 +4,4 @@
 
 #### See it in action:
 
-![alt text](https://github.com/Jhong098/studyhelper/blob/master/images/Screenshot_2017-06-20-22-24-57.png?raw=true)
+<img src="https://github.com/Jhong098/studyhelper/blob/master/images/Screenshot_2017-06-20-22-24-57.png?raw=true" width="100">
