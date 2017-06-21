@@ -1,1 +1,7 @@
-# studyhelper
+# StudyHelper
+
+### Kik Chatbot that quizzes you based on a picture upload of notes(text only)
+
+#### See it in action:
+
+![alt text](https://github.com/Jhong098/studyhelper/blob/master/images/Screenshot_2017-06-20-22-24-57.png?raw=true)
